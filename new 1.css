@@ -1,0 +1,24 @@
+.fight-stick .stick.left {
+background: rgba(0, 0, 0, 0) url("https://raw.githubusercontent.com/KurtMage/KurtMage.github.io/main/images/Console%20controllers/xbox/ls.png") repeat scroll 0% 0% / 150px padding-box border-box;
+background-size: 150px;
+background-repeat: repeat;
+}
+
+.fight-stick .stick.right {
+background: rgba(0, 0, 0, 0) url("https://raw.githubusercontent.com/KurtMage/KurtMage.github.io/main/images/Console%20controllers/xbox/rs.png") repeat scroll 0% 0% / 150px padding-box border-box;
+background-size: 150px;
+background-repeat: repeat;
+}
+
+
+.fight-stick .stick.left.pressed {
+background: rgba(0, 0, 0, 0) url("https://raw.githubusercontent.com/KurtMage/KurtMage.github.io/main/images/Console%20controllers/xbox/ls.png") repeat scroll 0% 100% / 150px padding-box border-box;
+background-size: 150px;
+background-repeat: repeat;
+}
+
+.fight-stick .stick.right.pressed {
+background: rgba(0, 0, 0, 0) url("https://raw.githubusercontent.com/KurtMage/KurtMage.github.io/main/images/Console%20controllers/xbox/rs.png") repeat scroll 0% 100% / 150px padding-box border-box;
+background-size: 150px;
+background-repeat: repeat;
+}
